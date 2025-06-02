@@ -34,7 +34,7 @@ This project analyzes customer churn behavior in a telecommunications company us
 
 **Churn by Contract Type:**
 
-![Churn Chart](charts/contract-vs-churn.png)
+![Churn Chart](charts/contract-vs-churn.jpg)
 
 ## 📂 File Structure
 
