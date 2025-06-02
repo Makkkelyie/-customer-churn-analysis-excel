@@ -42,7 +42,7 @@ This project analyzes customer churn behavior in a telecommunications company us
 customer-churn-analysis-excel/
 ├── Telco-Churn-Cleaned.xlsx        # Cleaned Excel file with pivot tables and charts
 ├── charts/
-│   └── contract-vs-churn.png       # Exported chart showing churn vs contract type
+│   └── contract-vs-churn.jpg      # Exported chart showing churn vs contract type
 └── README.md                       # This documentation file
 ```
 
